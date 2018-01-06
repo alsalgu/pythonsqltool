@@ -1,0 +1,22 @@
+The Top 3 Articles are:
+
+Article                           Author                    Hits
+--------------------------------  ----------------------  ------
+Candidate is jerk, alleges rival  Rudolf von Treppenwitz  338647
+Bears love berries, alleges bear  Ursula La Multa         253801
+Bad things gone, say good people  Anonymous Contributor   170098
+
+The Top Authors are:
+
+Name                      Hits
+----------------------  ------
+Ursula La Multa         507594
+Rudolf von Treppenwitz  423457
+Anonymous Contributor   170098
+Markoff Chaney           84557
+
+Days in which Errors accounted for more than 1% of Requests
+
+Day                          Requests    Errors    Percentage
+-------------------------  ----------  --------  ------------
+2016-07-17 00:00:00+00:00       55907      1265          2.26
